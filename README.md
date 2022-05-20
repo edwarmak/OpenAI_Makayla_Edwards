@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# OpenAI App
+
+This project was created for the Shopify internship application.
+This project is a basic question and answer generator using the OpenAI API provided by Shopify.
+
+## Purpose
+
+Have you ever had a burning question that you just NEEDED to know the answer to? With OpenAI App, you will no longer suffer. Simply input any question into the provided text box and OpenAI will give you the answer! It's almost like magic...
+
+# How to run this React app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
