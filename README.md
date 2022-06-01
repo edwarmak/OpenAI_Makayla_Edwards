@@ -1,6 +1,7 @@
 # OpenAI App
 
-This project was created for the Shopify internship application.
+This project is not yet finished.
+This project was origninally created for the Shopify internship application.
 This project is a basic question and answer generator using the OpenAI API provided by Shopify.
 
 ## Purpose
